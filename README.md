@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Fisihatsion Mekuanent
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Electrical and Computer Engineering at Addis Ababa Institue of Technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ ### Hi there👋 
+
+ I am a fullstack developer looking to solve real world problems. I have a passion for 
+ learning and sharing my knowledge as publicly as possible. If you find value in
+ something I have done, please contact me on `fisihatsion19@gmail.com`.
+ In case you want to get in touch also [LinkedIn]("https://www.linkedin.com/in/fisihatsion-mekuanent-25b734226/").
+
 
 <!---
 fish2492/fish2492 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
